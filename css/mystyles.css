@@ -1,0 +1,18 @@
+body{
+    color: black;
+    font-family: papyrus;
+}
+h2{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+a:hover{
+    color: royalblue;
+}
+/*!
+This changed their .post title coding in the styles css file
+ */
+.post-title{
+    color: red;
+}
